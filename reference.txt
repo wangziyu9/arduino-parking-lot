@@ -1,0 +1,26 @@
+https://www.bilibili.com/video/av58904389/
+ 4分钟学会用Arduino和RFID模块制作一个公共交通付费系统_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://zhuanlan.zhihu.com/p/68615316
+ 进阶教程7 I2C 连接 12864 OLED 屏幕 - 知乎
+https://www.bilibili.com/video/av65040429/
+ RFID 实验 门禁 白卡 arduino uno RC522模块 代码分享 邯郸学院 机械专业_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.arduino.cn/thread-2421-1-1.html
+ Arduino教程——外部中断的使用-Arduino中文社区 - Powered by Discuz!
+https://www.ncnynl.com/archives/201606/36.html
+ Arduino语法-时间函数 - 创客智造
+https://github.com/miguelbalboa/rfid/blob/master/examples/ChangeUID/ChangeUID.ino
+ rfid/ChangeUID.ino at master · miguelbalboa/rfid
+https://github.com/miguelbalboa/rfid
+ miguelbalboa/rfid: Arduino RFID Library for MFRC522
+https://blog.csdn.net/u013542549/article/details/78688923
+ (2条消息)对于RFID-RC522 模块的读写操作【Arduino】_C#_GG-CSDN博客
+https://github.com/miguelbalboa/rfid/issues/101
+ WARNING: Communication failure, is the MFRC522 properly connected? · Issue #101 · miguelbalboa/rfid
+https://blog.csdn.net/ling3ye/article/details/71036479?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+ (2条消息)Arduino Uno + RFID 读取 把你的门禁卡读取看看有什么秘密_数据库_凌顺实验室-CSDN博客
+https://www.arduino.cn/thread-16359-1-1.html
+ 求助UTFT程序编译报错-Arduino中文社区 - Powered by Discuz!
+https://github.com/arduino/Arduino/issues/2456
+ PROGMEM no longer works · Issue #2456 · arduino/Arduino
+https://geek-workshop.com/thread-12676-1-1.html
+ UTFT 2.2寸液晶屏 - Arduino - 极客工坊 - Powered by Discuz!
